@@ -10,8 +10,7 @@ You will be able to use this script as a jumping off point for installing softwa
 
 ### Dependencies
 
-[Powershell 5.1](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-5.1)
-
+[Powershell 5.1](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/install/installing-windows-powershell?view=powershell-5.1)  
 [PsDesiredStateConfiguration Module v1.1](https://docs.microsoft.com/en-us/powershell/dsc/overview?view=dsc-1.1)
 
 ### Installing
